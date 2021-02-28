@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">desafio1-1</string>
+    <string name="b_b_2_4ac_2a">(-b +- √ (b^2 + 4ac)) / 2a</string>
+    <string name="numero_a">Numero A</string>
+    <string name="numero_c">Numero C</string>
+    <string name="numero_b">Numero B</string>
+    <string name="ingrese_primer_numero_a">Ingrese primer numero (a):</string>
+    <string name="ingrese_segundo_numero_b">Ingrese segundo numero (b):</string>
+    <string name="calcular">Calcular</string>
+    <string name="soluci_n_dela_ecuaci_n_cuadr_tica">Solución dela Ecuación Cuadrática</string>
+    <string name="ingrese_tercer_numero_c">Ingrese tercer numero (c):</string>
+</resources>
